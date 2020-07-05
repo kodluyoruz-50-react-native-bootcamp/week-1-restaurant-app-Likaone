@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name": "Lika Steak",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+        "location": "Vietnam",
+        "likes": 100010,
+        "isPopular": false,
+        "isOpenNow": true
+    },
+    {
+        "id": 2,
+        "name": "Califo",
+        "image": "https://images.unsplash.com/photo-1543362906-acfc16c67564?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=401&q=80",
+        "location": "USA/California",
+        "likes": 788,
+        "isPopular": false,
+        "isOpenNow": false
+    },
+    {
+        "id": 3,
+        "name": "Tjokro Restaurant",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/df/a0/0b/getlstd-property-photo.jpg",
+        "location": "Tokyo/Japan",
+        "likes": 3553,
+        "isPopular": true,
+        "isOpenNow": true
+    },
+    {
+        "id": 4,
+        "name": "FUUUGG",
+        "image": "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+        "location": "Indonezia",
+        "likes": 344,
+        "isPopular": false,
+        "isOpenNow": false
+    },
+    {
+        "id": 5,
+        "name": "Viva Forever",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+        "location": "Izmir/Turkiye",
+        "likes": 67679,
+        "isPopular": true,
+        "isOpenNow": false,
+       
+        
+    },
+    {
+        "id": 6,
+        "name": "Tayvan Restaurant",
+        "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+        "location": "Tayvan",
+        "likes": 666636,
+        "isPopular": false,
+        "isOpenNow": false
+    },
+    {
+        "id": 7,
+        "name": "Pasta",
+        "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+        "location": "Napoli/İtalya",
+        "likes": 100,
+        "isPopular": false,
+        "isOpenNow": true
+    },
+    {
+        "id": 8,
+        "name": "Steak Time",
+        "image": "https://images.unsplash.com/photo-1542365887-1149961dccc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+        "location": "Rome/İtalya",
+        "likes": 345,
+        "isPopular": true,
+        "isOpenNow": false
+    },
+    {
+        "id": 9,
+        "name": "Burger Restaurant",
+        "image": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80",
+        "location": "Barcelona/İspanya",
+        "likes":9909,
+        "isPopular": true,
+        "isOpenNow": false
+    },
+    {
+        "id": 10,
+        "name": "Kubryk",
+        "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&auto=format&fit=crop&w=414&q=80",
+        "location": "Poland/Warsaw",
+        "likes": 114,
+        "isPopular": false,
+        "isOpenNow": true
+    }
+]
